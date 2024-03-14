@@ -1,0 +1,24 @@
+.textOne {
+    justify-content: center;
+    /*display: inline;*/
+    background: #F4572E;
+    padding: 10px;
+    border-radius: 10px;
+    color: #FFFF;
+    border: none;
+}
+
+.textTwo {
+    color: #1E2D78;
+    font-weight: bolder;
+    font-size: 39px;
+    margin: 0;
+    /*display: inline;*/
+}
+
+.textDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
