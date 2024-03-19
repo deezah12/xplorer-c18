@@ -10,11 +10,12 @@
     gap: 20px;
 }
 
-.linkCont > p, .thirdSection > p{
+.linkCont >p, .thirdSection > p{
     font-weight: bold;
     font-size: 16px;
-    color: #1E2D78;
+    color: #282c34;
 }
+
 .mainCont > p {
     font-weight: bolder;
 }
